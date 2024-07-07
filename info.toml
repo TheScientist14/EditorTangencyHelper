@@ -1,0 +1,8 @@
+[meta]
+name            = "Editor Tangency Helper"
+author          = "TheScientist14"
+category        = "Map Editor"
+version         = "1.0.0"
+
+[script]
+dependencies    = ["Editor", "Camera"]
